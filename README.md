@@ -1,4 +1,4 @@
-The application is developed in Kotlin and uses googlemaps to walk around Swansea University campus 
+Android app written in Kotlin which uses Google Maps to walk around Swansea University campus 
 and collect lyrics.
 
 Run the emulator with the normal Gradle sync files to begin using the application.
