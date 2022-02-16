@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GeoLyrical</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="guess_button">Guess</string>
+
+    <string name="guess_title_text">Guess</string>
+    <string name="guess_song_lyric">Guess Song</string>
+    <string name="guess_artist_of_song">Artist</string>
+    <string name="guess_song_of_artist">Song</string>
+    <string name="give_up">Give Up</string>
+    <string name="guess_count_label">Guess Count</string>
+    <string name="guess_count_value">3</string>
+
+    <string name="collection_label">Collection</string>
+    <string name="completed_songs_label">Completed Songs:</string>
+
+    <string name="username_login">username</string>
+    <string name="password_login">password</string>
+    <string name="logo">logo</string>
+
+    <string name="menu_map">Map</string>
+    <string name="menu_collection">Collection</string>
+    <string name="menu_friends">Friends</string>
+    <string name="menu_sign_out">Sign Out</string>
+    <string name="menu_mode_classic">Classic</string>
+    <string name="menu_mode_current">Current</string>
+
+</resources>

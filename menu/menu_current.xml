@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/map"
+        android:title="@string/menu_map" />
+
+    <item android:id="@+id/collection"
+        android:title="@string/menu_collection" />
+
+    <item android:id="@+id/friends"
+        android:title="@string/menu_friends" />
+
+    <item android:id="@+id/mainMenu"
+        android:title="@string/menu_sign_out" />
+
+    <item android:id="@+id/mode"
+        android:title="@string/menu_mode_current"/>
+</menu>
